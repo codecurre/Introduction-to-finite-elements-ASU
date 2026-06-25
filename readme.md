@@ -8,6 +8,6 @@ steps to upload:
 5. Submit — we'll review and merge
 
 note:MAX UPLOAD SIZE IS 25 MB,please compress your folder to .7z or .zip before uploading,
-if your folder is still too large after compression put your contents in multiple compressed folders that are lower in size than 25MB and add number your files => 
+if your folder is still too large after compression put your contents in multiple compressed folders that are lower in size than 25MB and add number your files => myProject_1 | myProject_2 | ...
 
 Made using calculiX and Matlab/Octave <3
